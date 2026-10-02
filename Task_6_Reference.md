@@ -4,9 +4,7 @@
 
 Task 6 repository:
 
-PASTE YOUR PUBLIC TASK 6 REPOSITORY URL HERE
-
-Replace this placeholder before submission.
+https://github.com/AtharvUnnikrishnanPillai/Task_06_Deep_Fake
 
 ## Referenced Work
 
